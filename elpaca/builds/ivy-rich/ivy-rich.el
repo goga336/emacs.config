@@ -1,0 +1,1 @@
+/home/goga/.emacs.d/elpaca/repos/ivy-rich/ivy-rich.el

@@ -1,0 +1,1 @@
+/home/goga/.emacs.d/elpaca/repos/projectile/projectile.el

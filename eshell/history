@@ -1,0 +1,23 @@
+exit
+ls
+ls /Desktop
+cd /Desktop
+emacsclient -cF "((visibility . nil))" -e "(emacs-run-launcher)"
+server-stop
+--debug-init
+exit
+ls
+cd Desktop/
+ls
+ls
+cd..
+ls
+ls Desktop/
+ls Public/
+cd Public/
+ls
+cd ..
+nasm -f elf hello.asm -o hello.o 
+ld -m elf_i386 hello.o -o hello
+./hello
+./hello

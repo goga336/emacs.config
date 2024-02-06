@@ -1,0 +1,1 @@
+/home/goga/.emacs.d/elpaca/repos/app-launcher/app-launcher.el
